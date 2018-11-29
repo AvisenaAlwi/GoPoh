@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26a69a</color>
+    <color name="colorPrimaryDark">#00766c</color>
+    <color name="colorAccent">#fdd835</color>
+
+    <color name="lightGray">#D9D9D9</color>
+    <color name="darkGray">#595959</color>
+
+    <color name="colorBubbleIncoming">#FFFFFF</color>
+    <color name="colorBubbleIncomingPressed">#e3e3e3</color>
+    <color name="colorBubbleOutcoming">#E5FFCC</color>
+    <color name="colorBubbleOutcomingPressed">#CCFFD4</color>
+</resources>

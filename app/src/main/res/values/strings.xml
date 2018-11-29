@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoPoh</string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCrjwA7DGbtPZ9OK90gzlpnPTOJUJd9eMQ</string>
+</resources>

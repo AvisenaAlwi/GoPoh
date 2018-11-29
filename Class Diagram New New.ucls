@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="false" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <interface id="1" language="java" name="com.picode.gopoh.Control.ControlAnnouncement.OnAnnouncementSuccess" 
+    project="GoPoh" file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlAnnouncement.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="78" width="175" x="2293" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="com.picode.gopoh.Model.ModelChatting.OnGetChatComplete" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelChatting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="206" x="3153" y="1215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.picode.gopoh.Control.ControlLokasi.OnMakeChatRoomSuccess" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlLokasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="206" x="528" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="com.picode.gopoh.View.IViewLocation" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/View/IViewLocation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="275" x="1270" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.picode.gopoh.Control.ControlLogin" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="201" x="3623" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.picode.gopoh.Model.ModelTempatWisata" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelTempatWisata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="253" x="2000" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.picode.gopoh.Model.RoomChat" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/RoomChat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="414" width="287" x="3296" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.picode.gopoh.Model.ModelLokasi" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelLokasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="435" x="774" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.picode.gopoh.Model.Chat" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/Chat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="366" width="223" x="236" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.picode.gopoh.MainActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="222" width="275" x="1467" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="com.picode.gopoh.Model.ModelAdminPanel.OnGetLastChatFromRoomSuccess" 
+    project="GoPoh" file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelAdminPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="78" width="259" x="2508" y="1215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="com.picode.gopoh.Control.ControlAdminPanel" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlAdminPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="190" width="338" x="2517" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.picode.gopoh.Control.ControlLokasi" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlLokasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="238" width="350" x="1096" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.picode.gopoh.Control.ControlAnnouncement" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlAnnouncement.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="126" width="268" x="2000" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.picode.gopoh.Model.Admin" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/Admin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="136" x="2341" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.picode.gopoh.Model.ModelAdminPanel" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelAdminPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="376" x="2508" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.picode.gopoh.RegistrasiActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/RegistrasiActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="174" width="197" x="1782" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.picode.gopoh.AnnouncementServices" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/AnnouncementServices.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="190" width="253" x="499" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.picode.gopoh.ApplicationGoPoh" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/ApplicationGoPoh.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="109" x="792" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="com.picode.gopoh.Model.ModelLokasi.OnGetTempatWisataListener" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelLokasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="277" x="1230" y="1215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="com.picode.gopoh.AppCompatActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/AppCompatActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="116" x="941" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.picode.gopoh.Model.ModelChatting" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelChatting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="187" x="2945" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.picode.gopoh.AddAnnouncementActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/AddAnnouncementActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="158" width="199" x="2241" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.picode.gopoh.Model.ModelAddAnnouncement" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelAddAnnouncement.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="110" width="354" x="1585" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="com.picode.gopoh.View.IViewLogin" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/View/IViewLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="184" x="3845" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="26" language="java" name="com.picode.gopoh.Model.ModelAdminPanel.OnGetRoomChatsSuccess" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelAdminPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="252" x="2861" y="1215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="com.picode.gopoh.Model.User" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="158" width="113" x="2480" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.picode.gopoh.Model.ModelLogin" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="248" x="3557" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.picode.gopoh.Control.ControlRegistrasi" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlRegistrasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="182" x="2019" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.picode.gopoh.Control.ControlChatting" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Control/ControlChatting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="318" width="290" x="2945" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.picode.gopoh.ChattingActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/ChattingActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="270" width="202" x="3197" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="com.picode.gopoh.Model.ModelAddAnnouncement.OnGetModelTempatWisata" 
+    project="GoPoh" file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelAddAnnouncement.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="78" width="268" x="1960" y="1215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="33" language="java" name="com.picode.gopoh.View.IViewChat" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/View/IViewChat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="151" x="3256" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="34" language="java" name="com.picode.gopoh.View.IViewRegistrasi" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/View/IViewRegistrasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="178" x="1782" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="35" language="java" name="com.picode.gopoh.Model.Dialog" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/Dialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="176" x="3439" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.picode.gopoh.AdminPanelActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/AdminPanelActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="190" width="252" x="2905" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.picode.gopoh.LoginActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="174" width="184" x="3845" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.picode.gopoh.SplashScreenActivity" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/SplashScreenActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="129" x="1097" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.picode.gopoh.Model.ModelRegistrasi" project="GoPoh" 
+    file="/GoPoh/app/src/main/java/com/picode/gopoh/Model/ModelRegistrasi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="161" x="1266" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="modelAddAnnouncement"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="44" name="modelTempatWisata"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="46">    
+    <bendpoint x="1239" y="889"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="47">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="48" name="currentModelWisata"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="50">    
+    <bendpoint x="3854" y="435"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <association id="51">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="52" name="controlAdminPanel"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <realization id="55">    
+    <bendpoint x="2298" y="435"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="57" name="controlAnnouncement"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="60" name="modelLogin"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="62">    
+    <bendpoint x="1969" y="889"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="63">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="64" name="listener"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="67" name="controlChatting"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="69">    
+    <bendpoint x="1476" y="435"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <nesting id="70">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="71">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="72" name="modelChatting"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="75" name="iViewChat"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="77">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="78">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <realization id="79">    
+    <bendpoint x="3265" y="435"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <association id="80">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="81" name="modelAdminPanel"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <realization id="85">    
+    <bendpoint x="2914" y="435"/>    
+    <bendpoint x="2914" y="889"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <association id="86">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="87" name="roomChat"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="89">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="90">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="91" name="controlLogin"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="93">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="34"/>  
+  </realization>  
+  <association id="94">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="95" name="dataWisata"/>      
+      <multiplicity id="96" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="98" name="modelLokasi"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="101" name="viewLocation"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="103">    
+    <bendpoint x="3162" y="889"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="104">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="105" name="controlLokasi"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="107">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="108" name="viewRegistrasi"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="110">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
